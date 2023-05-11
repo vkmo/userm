@@ -10,3 +10,5 @@ Paragraph
 I think I'll use this Markdown from now on
 
 ___________________________________________________________________________________________________________________________________________
+I love **bold** intex
+I love _bold_ intex
